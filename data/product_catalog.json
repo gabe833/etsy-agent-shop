@@ -1,0 +1,93 @@
+{
+  "t-shirt": {
+    "display_name": "Unisex Jersey Short Sleeve Tee",
+    "blueprint_id": 12,
+    "blueprint_brand": "Bella+Canvas",
+    "print_provider_id": 39,
+    "print_provider_title": "SwiftPOD",
+    "variant_ids": [
+      18076,
+      18077,
+      18078,
+      18079,
+      18388,
+      18389,
+      18390,
+      18391
+    ],
+    "default_price": 24.99,
+    "print_position": "front",
+    "allowed_design_colors": [
+      "black"
+    ],
+    "selection_method": "auto_catalog_builder",
+    "notes": "Auto-selected from Printify catalog using product rules."
+  },
+  "sweatshirt": {
+    "display_name": "Unisex Heavy Blend\u2122 Crewneck Sweatshirt",
+    "blueprint_id": 49,
+    "blueprint_brand": "Gildan",
+    "print_provider_id": 39,
+    "print_provider_title": "SwiftPOD",
+    "variant_ids": [
+      25377,
+      25385,
+      25386,
+      25394,
+      25395,
+      25396,
+      25408,
+      25416
+    ],
+    "default_price": 39.99,
+    "print_position": "front",
+    "allowed_design_colors": [
+      "black"
+    ],
+    "selection_method": "auto_catalog_builder",
+    "notes": "Auto-selected from Printify catalog using product rules."
+  },
+  "mug": {
+    "display_name": "Unisex Heavy Blend\u2122 Crewneck Sweatshirt",
+    "blueprint_id": 49,
+    "blueprint_brand": "Gildan",
+    "print_provider_id": 39,
+    "print_provider_title": "SwiftPOD",
+    "variant_ids": [
+      25396,
+      25427,
+      25458,
+      25489,
+      25520,
+      25551,
+      25582,
+      25613
+    ],
+    "default_price": 16.99,
+    "print_position": "front",
+    "allowed_design_colors": [
+      "black"
+    ],
+    "selection_method": "auto_catalog_builder",
+    "notes": "Auto-selected from Printify catalog using product rules."
+  },
+  "tote": {
+    "display_name": "Canvas Tote Bag, 5-Color Straps",
+    "blueprint_id": 507,
+    "blueprint_brand": "Generic brand",
+    "print_provider_id": 48,
+    "print_provider_title": "Colorway",
+    "variant_ids": [
+      80818,
+      80823,
+      80828
+    ],
+    "default_price": 21.99,
+    "print_position": "front",
+    "allowed_design_colors": [
+      "black"
+    ],
+    "selection_method": "auto_catalog_builder",
+    "notes": "Auto-selected from Printify catalog using product rules."
+  }
+}
